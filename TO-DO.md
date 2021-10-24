@@ -1,0 +1,13 @@
+- [x] ~~Criar repositório~~
+- [x] ~~Criar projeto node **npm init -y**~~
+- [ ] Instalar ESLint **npm i eslint -D**
+- [ ] Configurar ESLint **npx eslint --init**
+- [ ] Entendendo o Linter
+  - [ ] Exibir informações de regras
+  - [ ] Exibir regra do console.log
+  - [ ] Atalhos de linting
+  - [ ] ESLintignore
+  - [ ] Verificar erro no projeto **npx eslint .**
+  - [ ] Lintar projeto **npx eslint . --fix**
+- [ ] EditorConfig
+- [ ] Formatador (Prettier) no ESLint **npm i prettier eslint-config-prettier eslint-plugin-prettier -D**
